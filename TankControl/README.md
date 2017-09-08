@@ -1,5 +1,7 @@
 TankControl
 
+NOTE: Player mesh needs controller component! Otherwise you will be walking through walls.
+
 Attach TankControl.cs as component to player model. This will enable tank controls which are used in the older Resident Evil games.
 
 Pressing W or UP will always make the character walk forward.
